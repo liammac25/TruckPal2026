@@ -10,12 +10,12 @@
       "supportsTablet": true
     },
     "android": {
-  "package": "com.lmcviral.truckpal",
-  "adaptiveIcon": {
-    "backgroundColor": "#E6F4FE",
-    "foregroundImage": "./assets/android-icon-foreground.png",
-    "backgroundImage": "./assets/android-icon-background.png",
-    "monochromeImage": "./assets/android-icon-monochrome.png"
+      "package": "com.lmcviral.truckpal",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false
     },
@@ -28,8 +28,7 @@
       }
     },
     "updates": {
-  "url": "https://u.expo.dev/59eec594-b48b-4ebc-ba81-87e4bf58cae0"
-}
+      "url": "https://u.expo.dev/59eec594-b48b-4ebc-ba81-87e4bf58cae0"
     },
     "runtimeVersion": {
       "policy": "appVersion"
