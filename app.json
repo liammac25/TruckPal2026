@@ -33,7 +33,7 @@
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "owner": "arcadalabs",
+    "owner": "liammac23s-team",
     "platforms": [
       "ios",
       "android",
